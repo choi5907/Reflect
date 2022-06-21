@@ -1,15 +1,15 @@
 # Reflect
  
-2022.06.10 - 임시 맵, 임시 플레이어 생성.
+> 2022.06.10 - 임시 맵, 임시 플레이어 생성.
 1인칭 플레이어
-https://www.youtube.com/watch?v=uandR5M30ho
-https://ansohxxn.github.io/unity%20lesson%203/ch1-1/
+- https://www.youtube.com/watch?v=uandR5M30ho
+- https://ansohxxn.github.io/unity%20lesson%203/ch1-1/
 
 기능구현 자료
-https://youtu.be/fSTQoClEAEQ
-https://www.youtube.com/watch?v=oOmAB0rs518
-https://www.youtube.com/watch?v=ChwCVraEbso
-https://www.youtube.com/watch?v=3bhH4bi0yro
+- https://youtu.be/fSTQoClEAEQ
+- https://www.youtube.com/watch?v=oOmAB0rs518
+- https://www.youtube.com/watch?v=ChwCVraEbso
+- https://www.youtube.com/watch?v=3bhH4bi0yro
 
 
 
